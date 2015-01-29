@@ -5,7 +5,7 @@
 
 
 // This code snippet is for implementing the shell in linux using system calls and concepts of processes
-
+// Hi there i am rohit
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
@@ -18,7 +18,7 @@
 
 #define size 100
 
-
+// I am your friend
 // Global variables declared
 int fore_pid=-1;
 char home[size];
